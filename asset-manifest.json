@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Flashcard-Generator-Almabetter/static/css/main.561f1b6d.css",
+    "main.js": "/Flashcard-Generator-Almabetter/static/js/main.fdbc0c39.js",
+    "static/js/781.b06ea607.chunk.js": "/Flashcard-Generator-Almabetter/static/js/781.b06ea607.chunk.js",
+    "static/js/811.eaf12be8.chunk.js": "/Flashcard-Generator-Almabetter/static/js/811.eaf12be8.chunk.js",
+    "static/js/448.f6d0e89c.chunk.js": "/Flashcard-Generator-Almabetter/static/js/448.f6d0e89c.chunk.js",
+    "static/js/865.9674df41.chunk.js": "/Flashcard-Generator-Almabetter/static/js/865.9674df41.chunk.js",
+    "static/js/126.e092434c.chunk.js": "/Flashcard-Generator-Almabetter/static/js/126.e092434c.chunk.js",
+    "static/js/578.5df943dc.chunk.js": "/Flashcard-Generator-Almabetter/static/js/578.5df943dc.chunk.js",
+    "static/js/692.e6b875b2.chunk.js": "/Flashcard-Generator-Almabetter/static/js/692.e6b875b2.chunk.js",
+    "static/js/423.39ffa2fd.chunk.js": "/Flashcard-Generator-Almabetter/static/js/423.39ffa2fd.chunk.js",
+    "static/js/584.c5dd63fa.chunk.js": "/Flashcard-Generator-Almabetter/static/js/584.c5dd63fa.chunk.js",
+    "static/media/dummy_image.jpg": "/Flashcard-Generator-Almabetter/static/media/dummy_image.7c118d410059de3c522d.jpg",
+    "static/media/logo.png": "/Flashcard-Generator-Almabetter/static/media/logo.a71333ba9fe4d72fc96d.png",
+    "index.html": "/Flashcard-Generator-Almabetter/index.html",
+    "main.561f1b6d.css.map": "/Flashcard-Generator-Almabetter/static/css/main.561f1b6d.css.map",
+    "main.fdbc0c39.js.map": "/Flashcard-Generator-Almabetter/static/js/main.fdbc0c39.js.map",
+    "781.b06ea607.chunk.js.map": "/Flashcard-Generator-Almabetter/static/js/781.b06ea607.chunk.js.map",
+    "811.eaf12be8.chunk.js.map": "/Flashcard-Generator-Almabetter/static/js/811.eaf12be8.chunk.js.map",
+    "448.f6d0e89c.chunk.js.map": "/Flashcard-Generator-Almabetter/static/js/448.f6d0e89c.chunk.js.map",
+    "865.9674df41.chunk.js.map": "/Flashcard-Generator-Almabetter/static/js/865.9674df41.chunk.js.map",
+    "126.e092434c.chunk.js.map": "/Flashcard-Generator-Almabetter/static/js/126.e092434c.chunk.js.map",
+    "578.5df943dc.chunk.js.map": "/Flashcard-Generator-Almabetter/static/js/578.5df943dc.chunk.js.map",
+    "692.e6b875b2.chunk.js.map": "/Flashcard-Generator-Almabetter/static/js/692.e6b875b2.chunk.js.map",
+    "423.39ffa2fd.chunk.js.map": "/Flashcard-Generator-Almabetter/static/js/423.39ffa2fd.chunk.js.map",
+    "584.c5dd63fa.chunk.js.map": "/Flashcard-Generator-Almabetter/static/js/584.c5dd63fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561f1b6d.css",
+    "static/js/main.fdbc0c39.js"
+  ]
+}
